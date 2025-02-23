@@ -341,4 +341,30 @@ Contributions are welcome. Please follow the standard pull request process:
 For issues and feature requests, please create an issue in the repository.
 
 ## Author
-1. GALIH RIDHO UTOMO
+
+| No | Name | Address |
+|----|------|--------|
+| 1 | Galih Ridho Utomo | Perum Permata Blok CB 20 / 10 Keluruhan Gelam Jaya, Kecamatan Pasar Kemis, Kabupaten Tangerang, Provinsi Banten, Pasar Kemis, Tangerang |
+| 2 | Septi Ida Suryani | Sraten RT 05/ RW 04, Cluring, Banyuwangi, Jawa Timur, Cluring, Banyuwangi |
+| 3 | Deffrian Prayogo | Jl. Sreni Indah, RT 02/03, Bategede, Kec. Nalumsari, Kab. Jepara, Jawa Tengah, Nalumsari, Jepara |
+| 4 | Achmad Rouf | Sempulur, RT 04, RW 01, Kel. Sempulur, Kec. Karanggede, Kab. Boyolali, Karanggede, Boyolali |
+| 5 | Fionita Fahra Azzahra | Karang Asem, 01/06, Ketapang, Kec. Susukan, Kab. Semarang, Jawa Tengah, Susukan, Semarang |
+| 6 | Dendy Randa | Tanjung Uncang, Batu Aji, Kota Batam, Kepulauan Riau, Batu Aji, Batam |
+| 7 | Fahma Mutia Sari | Dusun Pancuran RT 01/RW 13, Desa Banyubiru, Kecamatan Banyubiru, Kab. Semarang, Jawa Tengah, Banyubiru, Semarang |
+| 8 | Dava Arya Danendra | Jl. Wonodri Joho III No. 1002B, Wonodri, Semarang Selatan, Semarang Selatan, Semarang |
+| 9 | Qotrunnada Fauziah Hasna | Ds. Ngeluk,RT/RW 01/01, Kec. Penawangan, Kab. Grobogan , Penawangan, Grobogan |
+| 10 | Tamara Rizky Senda | RT 09/RW 02, Kelurahan Kramat Jati, Kec. Kramat Jati, Jakarta Timur, Provinsi DKI Jakarta , Kramat Jati, Jakarta Timur |
+| 11 | Dika Saputra | Griya Asri Bahagia Blok F5 No 4 Kel. Bahagia Kec. Babelan Kab. Bekasi,Babelan,Bekasi |
+
+## Cite
+Please cite this respotory, if your use in the publication
+
+```bibtex
+@misc{fnn,
+author = {Utomo, Galih Ridho, Septi Ida Suryani, Deffrian Prayogo, Achmad Rouf, Fionita Fahra Azzahra, Dendy Randa, Dava Arya Danendra, Qotrunnada Fauziah Hasna, Tamara Rizky Senda, Dika Saputra},
+title = {FNN (Fuzzy Neural Network) module implements a hybrid intelligent system that combines neural networks with fuzzy logic principles. This implementation is specifically optimized for Arduino platforms, providing efficient computation while maintaining prediction accuracy},
+year = {2025},
+howpublished = {\url{https://github.com/4211421036/fnn}},
+note = {GitHub repository},
+}
+```
